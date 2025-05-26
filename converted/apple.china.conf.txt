@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]h3://100143-gov3aulwmp9nx4sd.alidns.com/dns-query
 [/cds.apple.com/]h3://100143-gov3aulwmp9nx4sd.alidns.com/dns-query
 [/cdsassets.apple.com/]h3://100143-gov3aulwmp9nx4sd.alidns.com/dns-query
+[/certs.apple.com/]h3://100143-gov3aulwmp9nx4sd.alidns.com/dns-query
 [/cl1-cdn.origin-apple.com.akadns.net/]h3://100143-gov3aulwmp9nx4sd.alidns.com/dns-query
 [/cl1.apple.com/]h3://100143-gov3aulwmp9nx4sd.alidns.com/dns-query
 [/cl2-cn.apple.com/]h3://100143-gov3aulwmp9nx4sd.alidns.com/dns-query
