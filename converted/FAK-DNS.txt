@@ -907,6 +907,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/0kkkkkt.com/]h3://223.5.5.5/dns-query
 [/0ms.one/]h3://223.5.5.5/dns-query
 [/0nu2yo.com/]h3://223.5.5.5/dns-query
+[/0olut8.com/]h3://223.5.5.5/dns-query
 [/0r17374.com/]h3://223.5.5.5/dns-query
 [/0rl.cc/]h3://223.5.5.5/dns-query
 [/0rz.ltd/]h3://223.5.5.5/dns-query
@@ -1351,6 +1352,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/121588.com/]h3://223.5.5.5/dns-query
 [/121ask.com/]h3://223.5.5.5/dns-query
 [/121down.com/]h3://223.5.5.5/dns-query
+[/121ghs.com/]h3://223.5.5.5/dns-query
 [/121mai.com/]h3://223.5.5.5/dns-query
 [/121mu.com/]h3://223.5.5.5/dns-query
 [/121wty.com/]h3://223.5.5.5/dns-query
@@ -3100,6 +3102,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/26595.com/]h3://223.5.5.5/dns-query
 [/265g.com/]h3://223.5.5.5/dns-query
 [/265h.com/]h3://223.5.5.5/dns-query
+[/265xh.com/]h3://223.5.5.5/dns-query
 [/266.com/]h3://223.5.5.5/dns-query
 [/266.la/]h3://223.5.5.5/dns-query
 [/266wan.com/]h3://223.5.5.5/dns-query
@@ -4406,6 +4409,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/3vjia.com/]h3://223.5.5.5/dns-query
 [/3vjuyuan.com/]h3://223.5.5.5/dns-query
 [/3vsheji.com/]h3://223.5.5.5/dns-query
+[/3vyd.com/]h3://223.5.5.5/dns-query
 [/3wads.com/]h3://223.5.5.5/dns-query
 [/3wcoffee.com/]h3://223.5.5.5/dns-query
 [/3wen.com/]h3://223.5.5.5/dns-query
@@ -10414,6 +10418,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/ahzyw.com/]h3://223.5.5.5/dns-query
 [/ai-abc.com/]h3://223.5.5.5/dns-query
 [/ai-anchor.com/]h3://223.5.5.5/dns-query
+[/ai-augmented.com/]h3://223.5.5.5/dns-query
 [/ai-cai.com/]h3://223.5.5.5/dns-query
 [/ai-cctv.com/]h3://223.5.5.5/dns-query
 [/ai-classes.com/]h3://223.5.5.5/dns-query
@@ -15093,6 +15098,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/beiyinqi.com/]h3://223.5.5.5/dns-query
 [/beiyiskjc.com/]h3://223.5.5.5/dns-query
 [/beiyongzhan.com/]h3://223.5.5.5/dns-query
+[/beiyoucom.com/]h3://223.5.5.5/dns-query
 [/beiyu.xin/]h3://223.5.5.5/dns-query
 [/beiyuwangxiao.com/]h3://223.5.5.5/dns-query
 [/beizengtech.com/]h3://223.5.5.5/dns-query
@@ -16030,6 +16036,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/biquzw.info/]h3://223.5.5.5/dns-query
 [/biqwo.com/]h3://223.5.5.5/dns-query
 [/biransign.com/]h3://223.5.5.5/dns-query
+[/bird.art/]h3://223.5.5.5/dns-query
 [/bird4d.com/]h3://223.5.5.5/dns-query
 [/birdback.org/]h3://223.5.5.5/dns-query
 [/birdol.com/]h3://223.5.5.5/dns-query
@@ -18737,6 +18744,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/cang.com/]h3://223.5.5.5/dns-query
 [/cangdu.org/]h3://223.5.5.5/dns-query
 [/cangfengzhe.com/]h3://223.5.5.5/dns-query
+[/canghaiip.com/]h3://223.5.5.5/dns-query
 [/canghaimachine.com/]h3://223.5.5.5/dns-query
 [/canglanghospital.com/]h3://223.5.5.5/dns-query
 [/cangmang.xyz/]h3://223.5.5.5/dns-query
@@ -19041,6 +19049,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/cbdcn.com/]h3://223.5.5.5/dns-query
 [/cbdio.com/]h3://223.5.5.5/dns-query
 [/cbdstest.download.prss.microsoft.com/]h3://223.5.5.5/dns-query
+[/cbdz13.com/]h3://223.5.5.5/dns-query
 [/cbe21.com/]h3://223.5.5.5/dns-query
 [/cbea.com/]h3://223.5.5.5/dns-query
 [/cbec365.com/]h3://223.5.5.5/dns-query
@@ -23845,6 +23854,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/cn.net/]h3://223.5.5.5/dns-query
 [/cn.online.standardchartered.com/]h3://223.5.5.5/dns-query
 [/cn.razerzone.com/]h3://223.5.5.5/dns-query
+[/cn.sc.com/]h3://223.5.5.5/dns-query
 [/cn.vc/]h3://223.5.5.5/dns-query
 [/cn.windowssearch.com/]h3://223.5.5.5/dns-query
 [/cn/]h3://223.5.5.5/dns-query
@@ -23914,6 +23924,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/cname123.net/]h3://223.5.5.5/dns-query
 [/cname88.com/]h3://223.5.5.5/dns-query
 [/cnamegslb.com/]h3://223.5.5.5/dns-query
+[/cnameip.xyz/]h3://223.5.5.5/dns-query
 [/cnamexingzuoy.com/]h3://223.5.5.5/dns-query
 [/cnamico.com/]h3://223.5.5.5/dns-query
 [/cnaomeng.com/]h3://223.5.5.5/dns-query
@@ -25022,6 +25033,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/colortechchina.com/]h3://223.5.5.5/dns-query
 [/colorv.com/]h3://223.5.5.5/dns-query
 [/coloryr.com/]h3://223.5.5.5/dns-query
+[/colosseo7143.xyz/]h3://223.5.5.5/dns-query
 [/colourlife.com/]h3://223.5.5.5/dns-query
 [/columbia-china.com/]h3://223.5.5.5/dns-query
 [/columbia-kaiyuan.com/]h3://223.5.5.5/dns-query
@@ -30837,6 +30849,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/dps.djiservice.org/]h3://223.5.5.5/dns-query
 [/dptech.com/]h3://223.5.5.5/dns-query
 [/dptechnology.net/]h3://223.5.5.5/dns-query
+[/dptel.com/]h3://223.5.5.5/dns-query
 [/dpurat.com/]h3://223.5.5.5/dns-query
 [/dpw.pub/]h3://223.5.5.5/dns-query
 [/dpwl.net/]h3://223.5.5.5/dns-query
@@ -31364,6 +31377,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/duominuo.com/]h3://223.5.5.5/dns-query
 [/duomiyou.com/]h3://223.5.5.5/dns-query
 [/duomni.com/]h3://223.5.5.5/dns-query
+[/duomo3205.xyz/]h3://223.5.5.5/dns-query
 [/duomu.hk/]h3://223.5.5.5/dns-query
 [/duomu.tv/]h3://223.5.5.5/dns-query
 [/duonvlangceo.com/]h3://223.5.5.5/dns-query
@@ -33153,6 +33167,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/ennews.com/]h3://223.5.5.5/dns-query
 [/ennmt.com/]h3://223.5.5.5/dns-query
 [/ennobay.com/]h3://223.5.5.5/dns-query
+[/ennocad.com/]h3://223.5.5.5/dns-query
 [/ennovabio.com/]h3://223.5.5.5/dns-query
 [/ennpet.com/]h3://223.5.5.5/dns-query
 [/ennpower.com/]h3://223.5.5.5/dns-query
@@ -35590,6 +35605,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/fjpca.com/]h3://223.5.5.5/dns-query
 [/fjpcz.com/]h3://223.5.5.5/dns-query
 [/fjpicc.com/]h3://223.5.5.5/dns-query
+[/fjpit.com/]h3://223.5.5.5/dns-query
 [/fjpta.com/]h3://223.5.5.5/dns-query
 [/fjptdy.com/]h3://223.5.5.5/dns-query
 [/fjptyz.com/]h3://223.5.5.5/dns-query
@@ -36183,6 +36199,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/fqxs.org/]h3://223.5.5.5/dns-query
 [/fqxsw.cc/]h3://223.5.5.5/dns-query
 [/fr-trading.com/]h3://223.5.5.5/dns-query
+[/fr0528.art/]h3://223.5.5.5/dns-query
 [/fr2007.com/]h3://223.5.5.5/dns-query
 [/fractal-technology.com/]h3://223.5.5.5/dns-query
 [/fraeco.com/]h3://223.5.5.5/dns-query
@@ -38801,6 +38818,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/gitee.io/]h3://223.5.5.5/dns-query
 [/githang.com/]h3://223.5.5.5/dns-query
 [/github-zh.com/]h3://223.5.5.5/dns-query
+[/github.site/]h3://223.5.5.5/dns-query
 [/githubim.com/]h3://223.5.5.5/dns-query
 [/gitinn.com/]h3://223.5.5.5/dns-query
 [/gitiu.com/]h3://223.5.5.5/dns-query
@@ -39859,6 +39877,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/gpsgx.net/]h3://223.5.5.5/dns-query
 [/gpslook.net/]h3://223.5.5.5/dns-query
 [/gpsoo.net/]h3://223.5.5.5/dns-query
+[/gpsov.com/]h3://223.5.5.5/dns-query
 [/gpspw.net/]h3://223.5.5.5/dns-query
 [/gpsrcw.com/]h3://223.5.5.5/dns-query
 [/gpsspg.com/]h3://223.5.5.5/dns-query
@@ -45728,6 +45747,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/hebeijiaxin.com/]h3://223.5.5.5/dns-query
 [/hebeilyxh.com/]h3://223.5.5.5/dns-query
 [/hebeiminglan.com/]h3://223.5.5.5/dns-query
+[/hebeimutian.com/]h3://223.5.5.5/dns-query
 [/hebeinongzi.com/]h3://223.5.5.5/dns-query
 [/hebeinongzi.net/]h3://223.5.5.5/dns-query
 [/hebeisaixin.com/]h3://223.5.5.5/dns-query
@@ -47737,6 +47757,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/hnxxc.com/]h3://223.5.5.5/dns-query
 [/hnxxt.net/]h3://223.5.5.5/dns-query
 [/hnxxyz.com/]h3://223.5.5.5/dns-query
+[/hnxzctec.com/]h3://223.5.5.5/dns-query
 [/hnyanglao.com/]h3://223.5.5.5/dns-query
 [/hnyaoshan.com/]h3://223.5.5.5/dns-query
 [/hnyaosi.com/]h3://223.5.5.5/dns-query
@@ -51591,6 +51612,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/icourses163.com/]h3://223.5.5.5/dns-query
 [/icourses163.org/]h3://223.5.5.5/dns-query
 [/icourt.cc/]h3://223.5.5.5/dns-query
+[/icp.red/]h3://223.5.5.5/dns-query
 [/icp100.net/]h3://223.5.5.5/dns-query
 [/icp21.com/]h3://223.5.5.5/dns-query
 [/icpapi.com/]h3://223.5.5.5/dns-query
@@ -51622,6 +51644,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/ictcsr.org/]h3://223.5.5.5/dns-query
 [/ictdns.cloud/]h3://223.5.5.5/dns-query
 [/ictdns.fun/]h3://223.5.5.5/dns-query
+[/ictdns.icu/]h3://223.5.5.5/dns-query
 [/ictdns.store/]h3://223.5.5.5/dns-query
 [/ictdns.tech/]h3://223.5.5.5/dns-query
 [/ictehi.com/]h3://223.5.5.5/dns-query
@@ -52070,6 +52093,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/igtm-d101.com/]h3://223.5.5.5/dns-query
 [/igtm-e101.com/]h3://223.5.5.5/dns-query
 [/igtm-meeting-tencent.com/]h3://223.5.5.5/dns-query
+[/igtm-yuanbao.com/]h3://223.5.5.5/dns-query
 [/igtm.pub/]h3://223.5.5.5/dns-query
 [/iguaka.com/]h3://223.5.5.5/dns-query
 [/iguangdiu.com/]h3://223.5.5.5/dns-query
@@ -52845,6 +52869,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/initcc.com/]h3://223.5.5.5/dns-query
 [/initff.com/]h3://223.5.5.5/dns-query
 [/initialview.com/]h3://223.5.5.5/dns-query
+[/initjj.com/]h3://223.5.5.5/dns-query
 [/initkk.com/]h3://223.5.5.5/dns-query
 [/initpp.com/]h3://223.5.5.5/dns-query
 [/initroot.com/]h3://223.5.5.5/dns-query
@@ -53059,6 +53084,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/iooeoo.com/]h3://223.5.5.5/dns-query
 [/iooiooi.com/]h3://223.5.5.5/dns-query
 [/iooqoo.com/]h3://223.5.5.5/dns-query
+[/ioozu.com/]h3://223.5.5.5/dns-query
 [/iopenhec.com/]h3://223.5.5.5/dns-query
 [/iophthalmology.net/]h3://223.5.5.5/dns-query
 [/iopiopl.com/]h3://223.5.5.5/dns-query
@@ -53095,6 +53121,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/iotmag.com/]h3://223.5.5.5/dns-query
 [/iotmore.com/]h3://223.5.5.5/dns-query
 [/iotpai.com/]h3://223.5.5.5/dns-query
+[/iotrix.net/]h3://223.5.5.5/dns-query
 [/iotronic.tech/]h3://223.5.5.5/dns-query
 [/iotrouter.com/]h3://223.5.5.5/dns-query
 [/iots.vip/]h3://223.5.5.5/dns-query
@@ -54335,6 +54362,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/jcbjbcak.com/]h3://223.5.5.5/dns-query
 [/jcbmt.com/]h3://223.5.5.5/dns-query
 [/jcbq.net/]h3://223.5.5.5/dns-query
+[/jccchina.com/]h3://223.5.5.5/dns-query
 [/jcceram.com/]h3://223.5.5.5/dns-query
 [/jccinema.com/]h3://223.5.5.5/dns-query
 [/jccjtwl.com/]h3://223.5.5.5/dns-query
@@ -55349,6 +55377,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/jiasaw.com/]h3://223.5.5.5/dns-query
 [/jiashejianyan.com/]h3://223.5.5.5/dns-query
 [/jiashengguangdian.com/]h3://223.5.5.5/dns-query
+[/jiashida5618.com/]h3://223.5.5.5/dns-query
 [/jiashiguoji168.com/]h3://223.5.5.5/dns-query
 [/jiashuangkuaizi.com/]h3://223.5.5.5/dns-query
 [/jiashuba.com/]h3://223.5.5.5/dns-query
@@ -56296,6 +56325,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/jitao.tech/]h3://223.5.5.5/dns-query
 [/jitapai.com/]h3://223.5.5.5/dns-query
 [/jitapu.com/]h3://223.5.5.5/dns-query
+[/jitapuji.com/]h3://223.5.5.5/dns-query
 [/jitashe.org/]h3://223.5.5.5/dns-query
 [/jitavip.com/]h3://223.5.5.5/dns-query
 [/jitetech.com/]h3://223.5.5.5/dns-query
@@ -61069,6 +61099,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/kuaiqi.net/]h3://223.5.5.5/dns-query
 [/kuaiqikan.com/]h3://223.5.5.5/dns-query
 [/kuaiqin.com/]h3://223.5.5.5/dns-query
+[/kuaiqushuiyin.com/]h3://223.5.5.5/dns-query
 [/kuairen88.com/]h3://223.5.5.5/dns-query
 [/kuaisee.com/]h3://223.5.5.5/dns-query
 [/kuaishangkf.com/]h3://223.5.5.5/dns-query
@@ -61329,6 +61360,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/kurogame.com/]h3://223.5.5.5/dns-query
 [/kurogame.net/]h3://223.5.5.5/dns-query
 [/kurogame.xyz/]h3://223.5.5.5/dns-query
+[/kurogames-ads.com/]h3://223.5.5.5/dns-query
 [/kurogames-global.com/]h3://223.5.5.5/dns-query
 [/kurogames.com/]h3://223.5.5.5/dns-query
 [/kurokingdom.com/]h3://223.5.5.5/dns-query
@@ -62536,7 +62568,9 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/lechangxia.cc/]h3://223.5.5.5/dns-query
 [/leche.com/]h3://223.5.5.5/dns-query
 [/lechebang.com/]h3://223.5.5.5/dns-query
+[/lecheng18.com/]h3://223.5.5.5/dns-query
 [/lechengdz.com/]h3://223.5.5.5/dns-query
+[/lechengyunfu.com/]h3://223.5.5.5/dns-query
 [/lechinepay.com/]h3://223.5.5.5/dns-query
 [/lechuangzhe.com/]h3://223.5.5.5/dns-query
 [/lecloud.com/]h3://223.5.5.5/dns-query
@@ -62576,6 +62610,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/leeco.com/]h3://223.5.5.5/dns-query
 [/leefanmr.com/]h3://223.5.5.5/dns-query
 [/leehon.com/]h3://223.5.5.5/dns-query
+[/leelen.com/]h3://223.5.5.5/dns-query
 [/leeleo.vip/]h3://223.5.5.5/dns-query
 [/leenzee.com/]h3://223.5.5.5/dns-query
 [/leenzhu.com/]h3://223.5.5.5/dns-query
@@ -63457,6 +63492,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/lihang-expo.com/]h3://223.5.5.5/dns-query
 [/lihangzx.com/]h3://223.5.5.5/dns-query
 [/lihaoshuyuan.com/]h3://223.5.5.5/dns-query
+[/liheiat.xyz/]h3://223.5.5.5/dns-query
 [/liheng1688.com/]h3://223.5.5.5/dns-query
 [/lihengjh.com/]h3://223.5.5.5/dns-query
 [/lihetong.com/]h3://223.5.5.5/dns-query
@@ -68327,6 +68363,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/mikublog.com/]h3://223.5.5.5/dns-query
 [/mikucdn.com/]h3://223.5.5.5/dns-query
 [/mikuclub.fun/]h3://223.5.5.5/dns-query
+[/mikudm.com/]h3://223.5.5.5/dns-query
 [/milan.com/]h3://223.5.5.5/dns-query
 [/milan520.com/]h3://223.5.5.5/dns-query
 [/milanshishang.com/]h3://223.5.5.5/dns-query
@@ -69664,6 +69701,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/mt3.com/]h3://223.5.5.5/dns-query
 [/mt77.com/]h3://223.5.5.5/dns-query
 [/mt888vip.com/]h3://223.5.5.5/dns-query
+[/mtab.cc/]h3://223.5.5.5/dns-query
 [/mtadvert.com/]h3://223.5.5.5/dns-query
 [/mtadx.com/]h3://223.5.5.5/dns-query
 [/mtaokj.com/]h3://223.5.5.5/dns-query
@@ -70161,6 +70199,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/myhscodes.com/]h3://223.5.5.5/dns-query
 [/myhst2024.com/]h3://223.5.5.5/dns-query
 [/myhuaweicloud-custom.com/]h3://223.5.5.5/dns-query
+[/myhuaweicloud-date.com/]h3://223.5.5.5/dns-query
 [/myhuaweicloud-koodrive.com/]h3://223.5.5.5/dns-query
 [/myhuaweicloud-obs.com/]h3://223.5.5.5/dns-query
 [/myhuaweicloud.com/]h3://223.5.5.5/dns-query
@@ -71751,6 +71790,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/niurenqushi.com/]h3://223.5.5.5/dns-query
 [/niuschools.com/]h3://223.5.5.5/dns-query
 [/niushe.com/]h3://223.5.5.5/dns-query
+[/niushield.online/]h3://223.5.5.5/dns-query
 [/niushoushan.net/]h3://223.5.5.5/dns-query
 [/niutech.com/]h3://223.5.5.5/dns-query
 [/niutk.com/]h3://223.5.5.5/dns-query
@@ -73534,6 +73574,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/oceancloudapi.com/]h3://223.5.5.5/dns-query
 [/oceancus.com/]h3://223.5.5.5/dns-query
 [/oceandatas.com/]h3://223.5.5.5/dns-query
+[/oceando.cloud/]h3://223.5.5.5/dns-query
 [/oceanengine.com/]h3://223.5.5.5/dns-query
 [/oceanhood.com/]h3://223.5.5.5/dns-query
 [/oceanol.com/]h3://223.5.5.5/dns-query
@@ -74221,6 +74262,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/oraycn.com/]h3://223.5.5.5/dns-query
 [/orayer.com/]h3://223.5.5.5/dns-query
 [/orayimg.com/]h3://223.5.5.5/dns-query
+[/orbiepharm.com/]h3://223.5.5.5/dns-query
 [/orbitmes.com/]h3://223.5.5.5/dns-query
 [/orcadt.com/]h3://223.5.5.5/dns-query
 [/orchid-lanhua.com/]h3://223.5.5.5/dns-query
@@ -75029,6 +75071,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/passfab.tw/]h3://223.5.5.5/dns-query
 [/passion120.com/]h3://223.5.5.5/dns-query
 [/passiongroupltd.com/]h3://223.5.5.5/dns-query
+[/passip.xyz/]h3://223.5.5.5/dns-query
 [/passport.lenovo.com/]h3://223.5.5.5/dns-query
 [/passwordkeyboard.com/]h3://223.5.5.5/dns-query
 [/pat-edu.com/]h3://223.5.5.5/dns-query
@@ -75171,6 +75214,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/pcqudong.com/]h3://223.5.5.5/dns-query
 [/pcr6.com/]h3://223.5.5.5/dns-query
 [/pcr9170.com/]h3://223.5.5.5/dns-query
+[/pcrdfans.com/]h3://223.5.5.5/dns-query
 [/pcscedu.com/]h3://223.5.5.5/dns-query
 [/pcsee.org/]h3://223.5.5.5/dns-query
 [/pcsfc.com/]h3://223.5.5.5/dns-query
@@ -76896,6 +76940,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/purekindfund.com/]h3://223.5.5.5/dns-query
 [/puremild.com/]h3://223.5.5.5/dns-query
 [/purenyy.com/]h3://223.5.5.5/dns-query
+[/puresnake.com/]h3://223.5.5.5/dns-query
 [/puresys.net/]h3://223.5.5.5/dns-query
 [/purewhite.io/]h3://223.5.5.5/dns-query
 [/purified-group.com/]h3://223.5.5.5/dns-query
@@ -77715,6 +77760,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/qiankoo.com/]h3://223.5.5.5/dns-query
 [/qiankun6.com/]h3://223.5.5.5/dns-query
 [/qiankungroup.com/]h3://223.5.5.5/dns-query
+[/qiankunshopping.com/]h3://223.5.5.5/dns-query
 [/qiankunxin.com/]h3://223.5.5.5/dns-query
 [/qianlaiye.com/]h3://223.5.5.5/dns-query
 [/qianlht.com/]h3://223.5.5.5/dns-query
@@ -78416,6 +78462,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/qiuwu.net/]h3://223.5.5.5/dns-query
 [/qiuxian.com/]h3://223.5.5.5/dns-query
 [/qiuxiao.com/]h3://223.5.5.5/dns-query
+[/qiuxietang.com/]h3://223.5.5.5/dns-query
 [/qiuxue360.com/]h3://223.5.5.5/dns-query
 [/qiuxueshe.com/]h3://223.5.5.5/dns-query
 [/qiuy.cloud/]h3://223.5.5.5/dns-query
@@ -80068,6 +80115,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/ratoo.net/]h3://223.5.5.5/dns-query
 [/ratuo.com/]h3://223.5.5.5/dns-query
 [/rauto.com/]h3://223.5.5.5/dns-query
+[/ravenna0943.xyz/]h3://223.5.5.5/dns-query
 [/rawanfa.com/]h3://223.5.5.5/dns-query
 [/rawchen.com/]h3://223.5.5.5/dns-query
 [/raxtone.com/]h3://223.5.5.5/dns-query
@@ -80308,6 +80356,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/reddogchina.com/]h3://223.5.5.5/dns-query
 [/redearth.com/]h3://223.5.5.5/dns-query
 [/redefine.ltd/]h3://223.5.5.5/dns-query
+[/redenmc.com/]h3://223.5.5.5/dns-query
 [/redfcv.com/]h3://223.5.5.5/dns-query
 [/redflag-linux.com/]h3://223.5.5.5/dns-query
 [/redflagseed.com/]h3://223.5.5.5/dns-query
@@ -80879,6 +80928,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/rmxiongan.com/]h3://223.5.5.5/dns-query
 [/rmysjzx.com/]h3://223.5.5.5/dns-query
 [/rmzs.net/]h3://223.5.5.5/dns-query
+[/rmzszp.com/]h3://223.5.5.5/dns-query
 [/rmzt.com/]h3://223.5.5.5/dns-query
 [/rmzxb.com/]h3://223.5.5.5/dns-query
 [/rn-core.com/]h3://223.5.5.5/dns-query
@@ -80899,6 +80949,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/roadoor.com/]h3://223.5.5.5/dns-query
 [/roadqu.com/]h3://223.5.5.5/dns-query
 [/roadsignads.com/]h3://223.5.5.5/dns-query
+[/roadtoempress.com/]h3://223.5.5.5/dns-query
 [/roadwaygroup.com/]h3://223.5.5.5/dns-query
 [/roaing.com/]h3://223.5.5.5/dns-query
 [/robam.com/]h3://223.5.5.5/dns-query
@@ -81249,6 +81300,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/rt-thread.com/]h3://223.5.5.5/dns-query
 [/rt-thread.io/]h3://223.5.5.5/dns-query
 [/rt-thread.org/]h3://223.5.5.5/dns-query
+[/rtacdn-os.com/]h3://223.5.5.5/dns-query
 [/rtahengtai.com/]h3://223.5.5.5/dns-query
 [/rtalink.com/]h3://223.5.5.5/dns-query
 [/rtb5.com/]h3://223.5.5.5/dns-query
@@ -81446,6 +81498,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/ruiyuanobserve.com/]h3://223.5.5.5/dns-query
 [/ruiyun.com/]h3://223.5.5.5/dns-query
 [/ruiyunit.com/]h3://223.5.5.5/dns-query
+[/ruize66.com/]h3://223.5.5.5/dns-query
 [/ruizhi-group.com/]h3://223.5.5.5/dns-query
 [/ruizhipak.com/]h3://223.5.5.5/dns-query
 [/ruizhiqi.com/]h3://223.5.5.5/dns-query
@@ -82135,6 +82188,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/sass.hk/]h3://223.5.5.5/dns-query
 [/sasscss.com/]h3://223.5.5.5/dns-query
 [/sasseur.com/]h3://223.5.5.5/dns-query
+[/sassi2956.xyz/]h3://223.5.5.5/dns-query
 [/sassywind.shop/]h3://223.5.5.5/dns-query
 [/sast.fun/]h3://223.5.5.5/dns-query
 [/sast.net/]h3://223.5.5.5/dns-query
@@ -83703,6 +83757,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/sg-gemsy.com/]h3://223.5.5.5/dns-query
 [/sg-gzy.com/]h3://223.5.5.5/dns-query
 [/sg-micro.com/]h3://223.5.5.5/dns-query
+[/sg-tencentclb.net/]h3://223.5.5.5/dns-query
 [/sg.work/]h3://223.5.5.5/dns-query
 [/sg163.com/]h3://223.5.5.5/dns-query
 [/sg169.com/]h3://223.5.5.5/dns-query
@@ -83870,6 +83925,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/sh-tayor.com/]h3://223.5.5.5/dns-query
 [/sh-tencentclb.cloud/]h3://223.5.5.5/dns-query
 [/sh-tencentclb.com/]h3://223.5.5.5/dns-query
+[/sh-tencentclb.net/]h3://223.5.5.5/dns-query
 [/sh-ticket.com/]h3://223.5.5.5/dns-query
 [/sh-tm.com/]h3://223.5.5.5/dns-query
 [/sh-valve.com/]h3://223.5.5.5/dns-query
@@ -85772,7 +85828,9 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/shuiyaohuo.com/]h3://223.5.5.5/dns-query
 [/shuiye.cc/]h3://223.5.5.5/dns-query
 [/shuiyinbao.com/]h3://223.5.5.5/dns-query
+[/shuiyinwang.com/]h3://223.5.5.5/dns-query
 [/shuiyinyu.com/]h3://223.5.5.5/dns-query
+[/shuiyinyun.com/]h3://223.5.5.5/dns-query
 [/shuiyoucam.com/]h3://223.5.5.5/dns-query
 [/shuiyugame.com/]h3://223.5.5.5/dns-query
 [/shuiyuwenquan.com/]h3://223.5.5.5/dns-query
@@ -85897,6 +85955,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/shupeng.com/]h3://223.5.5.5/dns-query
 [/shuq.net/]h3://223.5.5.5/dns-query
 [/shuqi.com/]h3://223.5.5.5/dns-query
+[/shuqiandiqiu.com/]h3://223.5.5.5/dns-query
 [/shuqiaozt.com/]h3://223.5.5.5/dns-query
 [/shuqiapi.com/]h3://223.5.5.5/dns-query
 [/shuqiread.com/]h3://223.5.5.5/dns-query
@@ -86040,6 +86099,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/shyhgj.com/]h3://223.5.5.5/dns-query
 [/shyhhema.com/]h3://223.5.5.5/dns-query
 [/shyihuoh.com/]h3://223.5.5.5/dns-query
+[/shyingt.asia/]h3://223.5.5.5/dns-query
 [/shyirijian.com/]h3://223.5.5.5/dns-query
 [/shyisai.com/]h3://223.5.5.5/dns-query
 [/shykx.com/]h3://223.5.5.5/dns-query
@@ -89412,6 +89472,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/swceb.com/]h3://223.5.5.5/dns-query
 [/swchina.org/]h3://223.5.5.5/dns-query
 [/swckc.com/]h3://223.5.5.5/dns-query
+[/swdcmg.com/]h3://223.5.5.5/dns-query
 [/swdyz.com/]h3://223.5.5.5/dns-query
 [/sweet-data.com/]h3://223.5.5.5/dns-query
 [/sweetalkos.com/]h3://223.5.5.5/dns-query
@@ -91655,6 +91716,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/tcomall.com/]h3://223.5.5.5/dns-query
 [/tcp.hk/]h3://223.5.5.5/dns-query
 [/tcp.pub/]h3://223.5.5.5/dns-query
+[/tcp5.com/]h3://223.5.5.5/dns-query
 [/tcping8.com/]h3://223.5.5.5/dns-query
 [/tcqmj.com/]h3://223.5.5.5/dns-query
 [/tcrcb.com/]h3://223.5.5.5/dns-query
@@ -95563,6 +95625,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/uliangwang.com/]h3://223.5.5.5/dns-query
 [/uliaobao.com/]h3://223.5.5.5/dns-query
 [/ulife.com/]h3://223.5.5.5/dns-query
+[/ulife.group/]h3://223.5.5.5/dns-query
 [/ulikecam.com/]h3://223.5.5.5/dns-query
 [/ulikecam.mobi/]h3://223.5.5.5/dns-query
 [/ulikecam.net/]h3://223.5.5.5/dns-query
@@ -97961,6 +98024,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/wanwan88.com/]h3://223.5.5.5/dns-query
 [/wanwang.com/]h3://223.5.5.5/dns-query
 [/wanwang.space/]h3://223.5.5.5/dns-query
+[/wanwang.xin/]h3://223.5.5.5/dns-query
 [/wanweiedu.com/]h3://223.5.5.5/dns-query
 [/wanweixin.com/]h3://223.5.5.5/dns-query
 [/wanwu.com/]h3://223.5.5.5/dns-query
@@ -110232,6 +110296,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/ysxapp.com/]h3://223.5.5.5/dns-query
 [/ysxs8.com/]h3://223.5.5.5/dns-query
 [/ysxsw86.cc/]h3://223.5.5.5/dns-query
+[/ysxswz.com/]h3://223.5.5.5/dns-query
 [/ysxts.com/]h3://223.5.5.5/dns-query
 [/ysxyhtz.com/]h3://223.5.5.5/dns-query
 [/ysxzls.com/]h3://223.5.5.5/dns-query
@@ -111739,6 +111804,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/yzcn.net/]h3://223.5.5.5/dns-query
 [/yzcnet.com/]h3://223.5.5.5/dns-query
 [/yzcrown.net/]h3://223.5.5.5/dns-query
+[/yzcsoft.com/]h3://223.5.5.5/dns-query
 [/yzcxtz.com/]h3://223.5.5.5/dns-query
 [/yzcxx.com/]h3://223.5.5.5/dns-query
 [/yzcyj.net/]h3://223.5.5.5/dns-query
@@ -112752,6 +112818,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/zgnwp.com/]h3://223.5.5.5/dns-query
 [/zgny.com/]h3://223.5.5.5/dns-query
 [/zgnyw.net/]h3://223.5.5.5/dns-query
+[/zgnzw.xyz/]h3://223.5.5.5/dns-query
 [/zgoa.net/]h3://223.5.5.5/dns-query
 [/zgong.com/]h3://223.5.5.5/dns-query
 [/zgoog.com/]h3://223.5.5.5/dns-query
@@ -113029,6 +113096,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/zhangwei.li/]h3://223.5.5.5/dns-query
 [/zhangwenli.com/]h3://223.5.5.5/dns-query
 [/zhangwojumian.com/]h3://223.5.5.5/dns-query
+[/zhangxiaochun.com/]h3://223.5.5.5/dns-query
 [/zhangxin.ltd/]h3://223.5.5.5/dns-query
 [/zhangxinhulian.com/]h3://223.5.5.5/dns-query
 [/zhangxinkeji.com/]h3://223.5.5.5/dns-query
@@ -113517,6 +113585,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/zhidemai.com/]h3://223.5.5.5/dns-query
 [/zhidesoft.com/]h3://223.5.5.5/dns-query
 [/zhidi66.com/]h3://223.5.5.5/dns-query
+[/zhidianfan.com/]h3://223.5.5.5/dns-query
 [/zhidianlife.com/]h3://223.5.5.5/dns-query
 [/zhidieyun.com/]h3://223.5.5.5/dns-query
 [/zhidiy.com/]h3://223.5.5.5/dns-query
@@ -114425,6 +114494,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/zhunc.vip/]h3://223.5.5.5/dns-query
 [/zhundao.net/]h3://223.5.5.5/dns-query
 [/zhundaoyun.com/]h3://223.5.5.5/dns-query
+[/zhuneicdn.com/]h3://223.5.5.5/dns-query
 [/zhuneijs.com/]h3://223.5.5.5/dns-query
 [/zhuniangjia.com/]h3://223.5.5.5/dns-query
 [/zhuniu.com/]h3://223.5.5.5/dns-query
@@ -115144,6 +115214,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/zjjubao.com/]h3://223.5.5.5/dns-query
 [/zjjudong.com/]h3://223.5.5.5/dns-query
 [/zjjxjt.com/]h3://223.5.5.5/dns-query
+[/zjjxsoft.com/]h3://223.5.5.5/dns-query
 [/zjjy.com/]h3://223.5.5.5/dns-query
 [/zjjy.net/]h3://223.5.5.5/dns-query
 [/zjjytyt.com/]h3://223.5.5.5/dns-query
