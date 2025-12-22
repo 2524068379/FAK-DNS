@@ -1637,7 +1637,6 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/148com.com/]h3://223.5.5.5/dns-query
 [/148la.com/]h3://223.5.5.5/dns-query
 [/14944.net/]h3://223.5.5.5/dns-query
-[/1495c8.com/]h3://223.5.5.5/dns-query
 [/14hj.com/]h3://223.5.5.5/dns-query
 [/14play.net/]h3://223.5.5.5/dns-query
 [/14xd.com/]h3://223.5.5.5/dns-query
@@ -6659,7 +6658,6 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/62669.com/]h3://223.5.5.5/dns-query
 [/626x.com/]h3://223.5.5.5/dns-query
 [/628.com/]h3://223.5.5.5/dns-query
-[/628536nyv.com/]h3://223.5.5.5/dns-query
 [/62923.vip/]h3://223.5.5.5/dns-query
 [/629973.com/]h3://223.5.5.5/dns-query
 [/62dns.com/]h3://223.5.5.5/dns-query
@@ -11828,7 +11826,6 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/antvr.com/]h3://223.5.5.5/dns-query
 [/antwork.link/]h3://223.5.5.5/dns-query
 [/antzk.com/]h3://223.5.5.5/dns-query
-[/anviettek.com/]h3://223.5.5.5/dns-query
 [/anw.red/]h3://223.5.5.5/dns-query
 [/anweilan.com/]h3://223.5.5.5/dns-query
 [/anweishi.com/]h3://223.5.5.5/dns-query
@@ -53550,6 +53547,7 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/jamalube.net/]h3://223.5.5.5/dns-query
 [/jamcz.com/]h3://223.5.5.5/dns-query
 [/jamidol.com/]h3://223.5.5.5/dns-query
+[/jamms.org/]h3://223.5.5.5/dns-query
 [/jammyfm.com/]h3://223.5.5.5/dns-query
 [/jampotgames.com/]h3://223.5.5.5/dns-query
 [/janbao.net/]h3://223.5.5.5/dns-query
@@ -56756,7 +56754,6 @@ sdns://AgEAAAAAAAAAAAAQaGsyLmJldGEueG5zLm9uZR4vME5KWGRUOW9aVVkvZGVmYXVsdC9kbnMtc
 [/js96008.com/]h3://223.5.5.5/dns-query
 [/js96777.com/]h3://223.5.5.5/dns-query
 [/jsadkg.com/]h3://223.5.5.5/dns-query
-[/jsadt.com/]h3://223.5.5.5/dns-query
 [/jsaeit.com/]h3://223.5.5.5/dns-query
 [/jsaes.com/]h3://223.5.5.5/dns-query
 [/jsafc.net/]h3://223.5.5.5/dns-query
