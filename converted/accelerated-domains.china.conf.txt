@@ -32309,6 +32309,7 @@
 [/dubairen.com/]h3://223.5.5.5/dns-query
 [/dubao123.com/]h3://223.5.5.5/dns-query
 [/dubbing.tech/]h3://223.5.5.5/dns-query
+[/dubbingx.com/]h3://223.5.5.5/dns-query
 [/dubbo.io/]h3://223.5.5.5/dns-query
 [/duble.live/]h3://223.5.5.5/dns-query
 [/dubola.com/]h3://223.5.5.5/dns-query
@@ -68903,6 +68904,7 @@
 [/miaocode.com/]h3://223.5.5.5/dns-query
 [/miaodiyun.com/]h3://223.5.5.5/dns-query
 [/miaodongbar.com/]h3://223.5.5.5/dns-query
+[/miaodongshenghuo.com/]h3://223.5.5.5/dns-query
 [/miaogongzi.cc/]h3://223.5.5.5/dns-query
 [/miaogongzi.net/]h3://223.5.5.5/dns-query
 [/miaohuiyanyi.com/]h3://223.5.5.5/dns-query
@@ -79934,6 +79936,7 @@
 [/quaspa.com/]h3://223.5.5.5/dns-query
 [/quazero.com/]h3://223.5.5.5/dns-query
 [/quba360.com/]h3://223.5.5.5/dns-query
+[/qubang.cc/]h3://223.5.5.5/dns-query
 [/qubaobei.com/]h3://223.5.5.5/dns-query
 [/qubiankeji.com/]h3://223.5.5.5/dns-query
 [/qucai.com/]h3://223.5.5.5/dns-query
@@ -95338,6 +95341,7 @@
 [/tsg-online.net/]h3://223.5.5.5/dns-query
 [/tsggx.com/]h3://223.5.5.5/dns-query
 [/tsgks.com/]h3://223.5.5.5/dns-query
+[/tsgyun.com/]h3://223.5.5.5/dns-query
 [/tshaisen.com/]h3://223.5.5.5/dns-query
 [/tshe.com/]h3://223.5.5.5/dns-query
 [/tshe.me/]h3://223.5.5.5/dns-query
@@ -110427,6 +110431,7 @@
 [/yooek.com/]h3://223.5.5.5/dns-query
 [/yoofh.com/]h3://223.5.5.5/dns-query
 [/yoogene.com/]h3://223.5.5.5/dns-query
+[/yoohe.net/]h3://223.5.5.5/dns-query
 [/yoohouse.com/]h3://223.5.5.5/dns-query
 [/yoojia.com/]h3://223.5.5.5/dns-query
 [/yoojing.com/]h3://223.5.5.5/dns-query
